@@ -18,7 +18,7 @@
    display: flex;
    justify-content: space-between;
    align-items: center;
-    background-color: #1a1a1a;
+    /* background-color: #1a1a1a; */
     
    
 }
@@ -88,7 +88,7 @@
 
 }
 .view{
-   background-color: #292e36;
+   /* background-color: #292e36; */
    color: black;
    padding: 12px 24px;
    border: 2px; 
@@ -101,7 +101,7 @@
  text-align: center;
 }
 .main-content{
-   background-color: #0f1624;
+   /* background-color: #0f1624; */
    width: 100%;
    padding: 200px 0px;
    height: fit-content;
@@ -205,7 +205,10 @@ display: flex;
 }
 .m-customer{
    background-color: #122118;
+   padding-bottom: 100px;
 }
+
+
 .about-text{
 width: 50%; 
 height: fit-content;  
@@ -243,7 +246,6 @@ color: #38f47b;
    text-align: center;
    font-weight: bold;
    padding-top: 5%;
-   background-color: #122118; 
 }
 .menu-box{
    padding: 0px 100px;
@@ -252,7 +254,6 @@ color: #38f47b;
    display: flex;
    justify-content: space-around;
    padding-top: 2%;
-   background-color: #122118; ;
    margin-top: 35px;
    margin-top:15px ;
    padding-top: 5%;
@@ -296,13 +297,16 @@ color: #38f47b;
    font-size: 23px;
 }
 .main-cont{
-width: 93%;
+width: 97.8%;
 height: 400px;
-background-color: #38f47b;
+margin-top: 10px;
+margin-left: 120px;
 display: flex;
 align-content: center;
 justify-content: space-between;
-
+padding: 0px 20px;
+/* background-color: #1a2e23; */
+/* border: 2px solid red; */
 
 }
 .little-text{
@@ -317,22 +321,53 @@ justify-content: space-between;
 }
 .left-side{
    width: 50%;
-   background-color: #0f1624;
+   /* background-color:#1a2e23; */
+   padding: 20px;
    color: white;
-   text-align: center;
+   /* text-align: center; */
 }
 .right-side{
    width: 50%;
-   background-color: aqua;
+
    color: white;
+    margin-top: 5%;
 }
 .cont-text{
-   font-weight: 900;
-   font-size: 200%;
+   font-size: 25px;
+   font-weight: bold;
    padding-top: 15%;
+   line-height: 50px;
 }
+
+.p_tag{
+   font-size: 20px;
+   line-height: 25px;
+}
+
 .parent{
-   align-content: center;
-   justify-content: center;
+   /* align-content: center; */
+   /* justify-content: center; */
     padding-top: 2%;
 }
+/* .icon-con{
+  display: inline-block;
+  text-align: left !important;
+  align-content: flex-start;
+  justify-content:flex-start ;
+} */
+ .contact_icon{
+   display: flex;
+   justify-content: flex-start;
+   gap: 10px;
+   margin-bottom: 10px;
+ }
+ .submit{
+background-color: #f39c12;
+color: white; 
+padding: 12px 24px; 
+border: none;
+border-radius: 5px;
+cursor: pointer;
+ font-size: 16px;
+ }
+
