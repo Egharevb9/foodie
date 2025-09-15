@@ -297,7 +297,7 @@ color: #38f47b;
    font-size: 23px;
 }
 .main-cont{
-width: 97.8%;
+/* width: 97.8%; */
 height: 400px;
 margin-top: 10px;
 margin-left: 120px;
@@ -321,19 +321,20 @@ padding: 0px 20px;
 }
 .left-side{
    width: 50%;
-   /* background-color:#1a2e23; */
    padding: 20px;
    color: white;
    /* text-align: center; */
 }
 .right-side{
+   padding: 20px;
    width: 50%;
+   /* margin-top: 100px; */
 
    color: white;
     margin-top: 5%;
 }
 .cont-text{
-   font-size: 25px;
+   font-size: 30px;
    font-weight: bold;
    padding-top: 15%;
    line-height: 50px;
@@ -359,15 +360,24 @@ padding: 0px 20px;
    display: flex;
    justify-content: flex-start;
    gap: 10px;
-   margin-bottom: 10px;
+   margin-top: 20px;
+   font-size: 20px;
  }
+
+ .contact_icon i{
+   color: #38f47b;
+ }
+
  .submit{
-background-color: #f39c12;
-color: white; 
+background-color: #38f47b;
+color: black;
+border: 2px solid red;
 padding: 12px 24px; 
 border: none;
 border-radius: 5px;
 cursor: pointer;
  font-size: 16px;
  }
+
+ 
 
