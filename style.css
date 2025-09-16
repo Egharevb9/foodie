@@ -369,13 +369,16 @@ padding: 0px 20px;
  }
 
  .submit{
+   width: 72%;
 background-color: #38f47b;
 color: black;
 border: 2px solid red;
 padding: 12px 24px; 
 border: none;
-border-radius: 5px;
+border-radius: 15px;
 cursor: pointer;
  font-size: 16px;
  }
+
+ 
 
