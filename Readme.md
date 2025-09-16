@@ -3,6 +3,7 @@
 # Nav_Section
 The navbar is the direction to other sesstion
 https://github.com/user-attachments/assets/0311f3b3-16c3-4231-bd37-ab5508707246
+<img width="1900" height="886" alt="Image" src="https://github.com/user-attachments/assets/0311f3b3-16c3-4231-bd37-ab5508707246" />
 
 
 ## Hero_Section
