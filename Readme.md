@@ -23,6 +23,8 @@ https://github.com/user-attachments/assets/5976e7b8-8743-40d8-b75b-9df4563056c9
 ### Customer
 what customers say (Customers response)
 https://github.com/user-attachments/assets/6b2affa4-1625-4f4f-b7db-643d73a11145
+<img width="1907" height="859" alt="Image" src="https://github.com/user-attachments/assets/6b2affa4-1625-4f4f-b7db-643d73a11145" />
+
 
 ### Contact
 contact page
