@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/0311f3b3-16c3-4231-bd37-ab5508707246
 ## Hero_Section
 The landing page
 https://github.com/user-attachments/assets/c8e9f337-f5a8-4a9b-a801-fcee4dc247e0
-
+<img width="1906" height="886" alt="Image" src="https://github.com/user-attachments/assets/c8e9f337-f5a8-4a9b-a801-fcee4dc247e0" />
 ### Advert
 savor the flavor of our signature burger
 https://github.com/user-attachments/assets/1a6f1f8f-513f-4175-8b48-69385b23d7a0
