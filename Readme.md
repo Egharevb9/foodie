@@ -18,6 +18,7 @@ https://github.com/user-attachments/assets/1a6f1f8f-513f-4175-8b48-69385b23d7a0
 ### About
 About our passion for food
 https://github.com/user-attachments/assets/5976e7b8-8743-40d8-b75b-9df4563056c9
+<img width="1902" height="813" alt="Image" src="https://github.com/user-attachments/assets/5976e7b8-8743-40d8-b75b-9df4563056c9" />
 
 ### Customer
 what customers say (Customers response)
