@@ -13,6 +13,7 @@ https://github.com/user-attachments/assets/c8e9f337-f5a8-4a9b-a801-fcee4dc247e0
 ### Advert
 savor the flavor of our signature burger
 https://github.com/user-attachments/assets/1a6f1f8f-513f-4175-8b48-69385b23d7a0
+<img width="1903" height="880" alt="Image" src="https://github.com/user-attachments/assets/1a6f1f8f-513f-4175-8b48-69385b23d7a0" />
 
 ### About
 About our passion for food
