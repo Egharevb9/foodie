@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.Grid-container{
+    display: grid;
+    
+    /* grid-template-columns: 50px 50px;
+    grid-template-rows: 50px  50px; */
+    background-color: blue;
+    /* grid-gap: 50%; */
+}
+.con-boxes{
+    width: auto;
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    gap: 5%;
+}
+.box1{
+    height: 500px;
+    width: 600px;
+    background-color: blueviolet;
+    /* gap: 5%; */
+}
+.box2{
+height: 500px;
+width: 600px;
+background-color:greenyellow;   
+}
