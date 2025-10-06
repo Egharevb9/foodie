@@ -22,6 +22,9 @@
     
    
 }
+.foodie{
+ color: #38f47b;
+}
 .main-nav{
   
    display: flex;
@@ -380,5 +383,5 @@ cursor: pointer;
  font-size: 16px;
  }
 
- 
+
 
